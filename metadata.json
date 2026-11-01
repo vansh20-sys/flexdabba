@@ -1,0 +1,6 @@
+{
+  "name": "FlexDabba | Smart Customizable Tiffin Subscriptions",
+  "description": "The subscription tiffin service built for working professionals: 1-click daily menu swaps, allergy & dislike blacklists, 0-waste credit rollovers, and batch-optimized kitchen economics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
